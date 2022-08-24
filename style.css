@@ -1,0 +1,137 @@
+body {
+    font-family: 'Anek Telugu', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.orange {
+    color: orange;
+}
+
+.order {
+    height: 700px;
+    display: flex;
+    background-image: url("images/shapes/Frame\ 56.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.contact {
+    display: flex;
+    background-image: url("images/shapes/Frame\ 58.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.image-2 img {
+    width: 50%;
+}
+
+.image-2 {
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.text-2 {
+    width: 50%;
+    padding-top: 100px;
+    padding-right: 200px;
+}
+
+.text-2 a {
+    line-height: 100px;
+}
+
+.highlighter-1 {
+    color: rgba(66, 66, 66, 0.911);
+}
+
+.text {
+    width: 50%;
+    margin: 0px 100px;
+    margin-top: 150px;
+}
+
+.text h1 {
+    color: rgba(66, 66, 66, 0.911);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgba(255, 166, 0, 0.849), rgb(230, 74, 74));
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+
+small {
+    display: block;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.image {
+    width: 50%;
+    margin: 0px 100px;
+}
+
+.image img {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.first {
+    text-align: center;
+    padding: 20px 400px;
+}
+
+.second {
+    display: flex;
+    padding-left: 110px;
+    padding-right: 100px;
+    margin-bottom: 60px;
+}
+
+.halfwidth img {
+    width: 580px;
+    height: 300px;
+}
+
+.halfwidth {
+    width: 47%;
+    box-shadow: 10px 10px 20px rgba(163, 163, 163, 0.868);
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.halfwidth h4 {
+    font-weight: bolder;
+}
+
+.third {
+    display: flex;
+    box-shadow: 10px 10px 20px rgba(163, 163, 163, 0.868);
+    border-radius: 20px;
+    margin-left: 110px;
+    margin-right: 100px;
+    margin-bottom: 60px;
+}
+
+.one-third {
+    padding: 50px 150px;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.971);
+    height: 200px;
+    padding-top: 40px;
+}
